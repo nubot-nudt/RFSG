@@ -1,0 +1,4 @@
+# These are some core libraries, please install them as required
+habitat
+habitat-sim
+torch

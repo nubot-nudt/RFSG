@@ -1,0 +1,8 @@
+habitat_baselines:
+  rl:
+    ppo:
+      goal_backbone: none
+      backbone: midfusion_resnet9
+      film_layers: '[0,1,2,3]'
+  num_environments: 10
+# if you want to generate video, please add param video_option: ["disk"]
