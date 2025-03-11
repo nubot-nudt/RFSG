@@ -55,11 +55,10 @@ If you find this work helpful, please consider citing:
 
 ```bibtex
 @article{feng2025image,
-	title={Image-Goal Navigation Using Refined Feature Guidance
-and Scene Graph Enhancement},
+	title={Image-Goal Navigation Using Refined Feature Guidance and Scene Graph Enhancement},
 	author={Zhicheng Feng and Xieyuanli Chen and Chenghao Shi and Lun Luo and Zhichao Chen and Yun-Hui Liu and Huimin Lu},
 	year={2025},
-    url={https://arxiv.org/abs/xxxx}, 
+                url={https://arxiv.org/abs/xxxx}, 
 }
 ```
 
