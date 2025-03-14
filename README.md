@@ -52,13 +52,13 @@ python run.py --exp-config exp_config/ddppo_imagenav_gibson.yaml,policy,reward,d
 ## Citation
 
 If you find this work helpful, please consider citing:
-
+**TODO**
 ```bibtex
 @article{feng2025image,
 	title={Image-Goal Navigation Using Refined Feature Guidance and Scene Graph Enhancement},
 	author={Zhicheng Feng and Xieyuanli Chen and Chenghao Shi and Lun Luo and Zhichao Chen and Yun-Hui Liu and Huimin Lu},
 	year={2025},
-	url={https://arxiv.org/abs/xxxx}, 
+	journal={arXiv preprint arXiv:xxx.0xx}, 
 }
 ```
 
