@@ -25,13 +25,13 @@ to the realization of end-to-end image-goal navigation in realworld scenarios.
 ### 1. Prepare environment and data
 Follow [FGPrompt](https://github.com/XinyuSun/FGPrompt) to install the habitat and download the required data
 
-### 2. Train a agent in Gibson
+### 2. Train a agent on Gibson
 
 ```
 python run.py --overwrite --exp-config exp_config/ddppo_imagenav_gibson.yaml,policy,reward,dataset,sensors,mid-fusion --run-type train --model-dir results/imagenav/RFSG
 ```
 
-### 3. Evaluation in test dataset of Gibson or HM3D
+### 3. Evaluation on test dataset of Gibson or HM3D
 Gibson's test dataset
 
 ```
@@ -58,7 +58,7 @@ If you find this work helpful, please consider citing:
 	title={Image-Goal Navigation Using Refined Feature Guidance and Scene Graph Enhancement},
 	author={Zhicheng Feng and Xieyuanli Chen and Chenghao Shi and Lun Luo and Zhichao Chen and Yun-Hui Liu and Huimin Lu},
 	year={2025},
-	journal={arXiv preprint arXiv:xxx.0xx}, 
+	journal={arXiv preprint arXiv:2503.10986}, 
 }
 ```
 
